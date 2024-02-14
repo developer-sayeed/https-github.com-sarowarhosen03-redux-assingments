@@ -1,0 +1,2 @@
+export const NEW_BOOKING = "NEW_FILGTBOOKING"
+export const DELETE_BOOKING = "ROMOVE_BOOKING"
