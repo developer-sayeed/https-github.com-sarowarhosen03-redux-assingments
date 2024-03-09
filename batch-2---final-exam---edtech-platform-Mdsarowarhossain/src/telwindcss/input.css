@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .input-label {
+        @apply font-bold text-white tracking-wide;
+    }
+
+    .input-body {
+        @apply rounded-md shadow-sm -space-y-px;
+    }
+
+    .nav-btn {
+        @apply flex gap-2 border  items-center px-4 py-1 rounded-full text-sm transition-all ;
+    }
+  
+}

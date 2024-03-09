@@ -1,0 +1,1 @@
+export const selectAllUnassignedVideos = state => state.admin.unAssingdVideos;
